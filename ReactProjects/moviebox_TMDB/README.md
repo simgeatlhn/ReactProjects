@@ -1,5 +1,4 @@
-app preview link:
-https://quirky-hermann-9f57f1.netlify.app
+
 
 
 --When the page is first opened, by default, the Search component and currencies welcome us.
